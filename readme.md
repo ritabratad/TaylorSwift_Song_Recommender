@@ -20,3 +20,7 @@ For making this, I have taken major inspiration from the following blog post- ht
 - To counter this, I used a pre-trained NLP model trained on English language, available in SpaCY- a very good Python library for performing NLP tasks. And then I compared the similarilty between meanings of lyrics.
 
 - To recommend, I ask for one of the songs by the user, and then the system generates the top 'n' similar songs based on that.
+
+### How to use it?
+
+Just check on the .ipynb file , and explore the code.
