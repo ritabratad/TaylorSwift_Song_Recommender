@@ -1,5 +1,7 @@
 # Taylor Swift Song Recommender
 
+![Taylor Swift](taylor.jpeg)
+
 ### "You need to calm Down"
 ### "Blank Space"
 ### "Me!"
